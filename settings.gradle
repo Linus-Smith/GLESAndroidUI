@@ -1,1 +1,1 @@
-include ':app', ':glesandroiduilib'
+include ':app', ':glesandroiduilib', ':processing-lib'
