@@ -42,6 +42,7 @@ import android.view.WindowManager;
 import processing.core.PApplet;
 
 public class PFragment extends Fragment implements AppComponent {
+
   private DisplayMetrics metrics;
   private Point size;
   private PApplet sketch;
